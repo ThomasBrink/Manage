@@ -1,0 +1,43 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+.container{
+    width: 1000px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 0 auto;
+}
+
+#container{
+    width: 1000px;
+    border: 2px solid black;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.footer{
+    width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+ul{
+    margin-left: 0px;
+    list-style: none;
+
+}
+
+p{
+    margin: 0px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 2px;
+    border-radius: 2px;
+    background-color: #ededed;
+}
